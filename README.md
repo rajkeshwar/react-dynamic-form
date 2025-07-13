@@ -7,11 +7,9 @@
 - Tailwind CSS – Utility-first CSS
 - React Hook Form – Form management (optional)
 
+⚙️ Setup and running the application
 
-⚙️ Getting Started
-
-1. Clone the Repository
-2. ```sh
+```sh
 git clone https://github.com/rajkeshwar/react-dynamic-form.git
 cd react-dynamic-form
 
