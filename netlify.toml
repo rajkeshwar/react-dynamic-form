@@ -1,0 +1,3 @@
+[build]
+  command = "npm install --force"
+  publish = "dist"  # or "build", depending on your project output

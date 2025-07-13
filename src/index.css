@@ -1,0 +1,25 @@
+
+@import "tailwindcss";
+
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid red;
+  min-height: 600px;
+}
+
+
+.sbte-formfield .p-calendar,
+.sbte-formfield .p-inputtext,
+.sbte-formfield .p-dropdown  {
+  @apply w-full;
+}
+
+.sbte-formfield .p-inputtext  {
+  @apply p-2;
+}
+
+.sbte-button.p-button {
+  @apply py-2;
+}
